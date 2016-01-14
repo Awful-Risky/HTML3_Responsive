@@ -1,6 +1,28 @@
-<!DOCTYPE html>
-<head></head>
-<body>
-	<p>I'm here</p>
-</body>
-<footer></footer>
+.header-space {
+	height: 5%;
+}
+
+.top-navbar-properties {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 5%;
+	width: 100%;
+	background-color: black;
+	text-align: center;
+	padding-top: 2%;
+    background: linear-gradient(bottom, rgba(0,0,0,1), rgba(250,250,250,1));
+    background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(250,250,250,1));
+    background: -moz-linear-gradient(bottom, rgba(0,0,0,.8), rgba(0,0,0,.2)); 
+}
+
+.top-navbar-hover a:hover {
+	color: white;
+}
+
+.crowdspar-img {
+    display: inline-block;
+	width: 100%;
+	margin-top: 5%;
+	text-align: center;
+}
