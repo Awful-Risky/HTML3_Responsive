@@ -62,10 +62,19 @@
 		display: block;
 	}
 	
-
+	.fall-img-properties {
+		height: auto;
+	}
 
 	.fall-img-properties img {
-
+		display: block;
+		margin: 0 auto;
+		width: 100%;
+		padding: 3%;
+	}
+	
+	.crowdspar-img {
+	margin-top: 0%;
 	}
 
 }
