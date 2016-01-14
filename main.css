@@ -42,5 +42,30 @@
 }
 
 .paragraph-properties {
+	padding: 0 1% 0 1%;
+}
+
+@media (max-width: 460px) {
+	.top-navbar-properties  {
+		display: block;
+		position: static;
+	}
+	.top-navbar-properties  a {
+		position: static;
+		border-style: solid;
+		border-color: rgba(220, 220, 220, 1);
+		border-width: 1px;
+		height: auto;
+		width: 100%;
+		background-color: grey;
+		text-align: center;
+		display: block;
+	}
+	
+
+
+	.fall-img-properties img {
+
+	}
 
 }
