@@ -27,8 +27,20 @@
 .crowdspar-img {
     display: inline-block;
 	width: 100%;
-	margin-top: 5%;
+	margin-top: 6%;
 	text-align: center;
 }
 
+.fall-img-properties {
+	text-align: center;
+}
 
+.fall-img-properties img {
+	display: inline;
+	width: 24%;
+	/*margin: 0;*/
+}
+
+.paragraph-properties {
+
+}
